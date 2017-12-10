@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='talk',
-      version='0.2.0',
+      version='0.2.1',
       description='talk module',
       url='https://github.com/rt6/talk',
       author='autho name',
