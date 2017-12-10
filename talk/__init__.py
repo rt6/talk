@@ -4,4 +4,5 @@ def hello():
 def helloName(name=''):
     if (name):
         print('hello {}'.format(name))
-    print('Name is missing.  What is your name?')
+    else:
+        print('Name is missing.  What is your name?')
