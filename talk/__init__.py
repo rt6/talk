@@ -4,3 +4,4 @@ def hello():
 def helloName(name=''):
     if (name):
         print('hello {}'.format(name))
+    print('What is your name?')
