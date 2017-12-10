@@ -21,7 +21,7 @@ conda create -n talk-test python=3
 pip install git+ssh://git@github.com/rt6/talk.git
 ```
 
-4) Use the talk package
+4) Use the talk package in your python project
 ```python
 import talk
 talk.hello()
