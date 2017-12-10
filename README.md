@@ -31,3 +31,8 @@ or
 from talk import hello
 hello()
 ```
+
+5) Uninstall talk package
+```sh
+pip uninstall talk
+```
