@@ -1,6 +1,6 @@
 def hello():
     print('hello world')
 
-def helloName(name):
+def helloName(name=''):
     if (name):
-        print('hello{}'.format(name))
+        print('hello {}'.format(name))
